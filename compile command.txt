@@ -1,0 +1,1 @@
+pyinstaller main.py --onedir --name='Red Dot' --add-data "c:\dev\python\Red Dot\venv\lib\site-packages\customtkinter;customtkinter" --noconsole --icon="C:\Dev\Python\Red Dot\logo.ico"
